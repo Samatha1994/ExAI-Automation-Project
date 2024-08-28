@@ -1,4 +1,4 @@
-# ExAI_part2
+# ExAI-Automation-Project
 
 
 Stage1: https://github.com/Samatha1994/Stage1
